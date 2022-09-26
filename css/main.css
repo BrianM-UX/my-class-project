@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    display: flex;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+    height: 100%;
+    display: flex;
+    justify-content: left;
+}
+
+h1 {
+    font-family: lora bold sans-serif;
+    font-size: 3.375em;
+}
+
+p {
+    font-family: lora;
+}
+
+footer {
+    text-align: center;
+}
+
+.brian-card{
+    margin: 0 1.275em 0 1.275em;
+}
+
+.vl {
+    border-left: .125px solid rgba(255, 255, 255, 0.644);
+}
+
+.third-width {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.644);
+    border-bottom: 1.5px solid rgba(255, 255, 255, 0.644);
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
